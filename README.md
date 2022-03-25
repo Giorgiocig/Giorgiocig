@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Giorgiocig
 - 👀 I’m interested in Photography, Climbing and Web Development
-- 📫 How to reach me giorgiocignitti@gmial.com
+- 📫 How to reach me giorgiocignitti@gmail.com
 
 <!---
 Giorgiocig/Giorgiocig is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
