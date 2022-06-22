@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Giorgiocig
-- 👀 I’m interested in Photography, Climbing and Web Development
+- 👀 I’m interested in Web Development, Climbing and Photography
 - 📫 How to reach me giorgiocignitti@gmail.com
 
 <!---
