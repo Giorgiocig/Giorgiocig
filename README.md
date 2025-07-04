@@ -19,27 +19,27 @@ I’m a passionate Front-End Developer with 3+ years of experience in building r
 
 🌐 Portfolio: [giorgiocignitti.netlify.app](https://giorgiocignitti.netlify.app)  
 📫 Contact: giorgiocignitti@gmail.com  
-📎 LinkedIn: [linkedin.com/in/giorgio-cignitti](https://www.linkedin.com/in/giorgio-cignitti-8a3a321a9)  
+📎 LinkedIn: [[linkedin.com/in/giorgio-cignitti](https://www.linkedin.com/in/giorgio-cignitti-8a3a321a9)  ](https://www.linkedin.com/in/giorgio-cignitti-phd-8a3a321a9/)
 📁 CV: Available on request
 
 ---
 
-## 🧪 Recent Projects
+## 🧪 Projects
 
 ### 🗺️ NEMO Platform (ENGIE Digital)
 - Built complex geospatial visualizations using **React, TypeScript**.
 - Created a **geospatial file converter** (.kml, .shp, .geojson → .csv) using **Python & Pandas**.
 
-### 🧩 eCollab Platform
+### 🧩 eCollab Platform (Collins Aerospace)
 - Developed the “Artefact Editor” with React & Material UI for collaborative editing.
 
-### 🧠 SkillsUp (Internal LMS)
+### 🧠 SkillsUp (Cénotélie)
 - Designed and tested features to manage internal training, using **React, SCSS, Jest**.
 
-### 🤖 Web Scraper Bot
+### 🤖 Web Scraper Bot (Cénotélie)
 - Built an automated job data scraper using **Python & Selenium** for internal analytics.
 
-### 🛠️ Company Website & Blog
+### 🛠️ Company Website & Blog (Cénotélie)
 - Developed **Cénotélie.fr** and **Rustacean.fr** with **Next.js + TailwindCSS**, focusing on UX, SEO, and performance.
 
 ---
