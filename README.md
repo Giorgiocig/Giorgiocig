@@ -17,7 +17,7 @@ I’m a passionate Front-End Developer with 3+ years of experience in building r
 - **Data**: Pandas, Matplotlib  
 - **Tools**: Git, GitHub, Docker, Jira, Figma
 
-🌐 Portfolio: (https://portfolio-nextjs-kappa-amber.vercel.app/)
+🌐 Portfolio: [(https://portfolio-nextjs-kappa-amber.vercel.app/)](https://portfolio-nextjs-kappa-amber.vercel.app/)
 📫 Contact: giorgiocignitti@gmail.com  
 📎 LinkedIn: [[linkedin.com/in/giorgio-cignitti](https://www.linkedin.com/in/giorgio-cignitti-8a3a321a9)  ](https://www.linkedin.com/in/giorgio-cignitti-phd-8a3a321a9/)
 📁 CV: Available on request
