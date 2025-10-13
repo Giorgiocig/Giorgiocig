@@ -7,13 +7,14 @@
 
 ## 🚀 About Me
 
-I’m a passionate Front-End Developer with 3+ years of experience in building responsive, accessible, and user-friendly web applications. I transitioned from academia (PhD in Neurosciences) to tech, bringing a rigorous scientific mindset to software development.
+I’m a passionate Full Stack Developer with 4 years of experience in building responsive, accessible, and user-friendly web applications. I transitioned from academia (PhD in Neurosciences) to tech, bringing a rigorous scientific mindset to software development.
 
 🔧 **Tech Stack**:  
 - **Languages**: JavaScript (ES6+), TypeScript, Python  
-- **Frameworks**: React.js, Next.js  
+- **Frameworks**: React.js, Next.js; FastApi, Nest.js 
 - **Styling**: SCSS, Tailwind CSS, Material UI  
-- **Testing**: Jest, React Testing Library, Pytest, Selenium  
+- **Testing**: Jest, React Testing Library, Pytest, Selenium
+- **Database**: Mongodb, postgreSQL 
 - **Data**: Pandas, Matplotlib  
 - **Tools**: Git, GitHub, Docker, Jira, Figma
 
@@ -28,13 +29,13 @@ I’m a passionate Front-End Developer with 3+ years of experience in building r
 
 ### 🗺️ NEMO Platform (ENGIE Digital)
 - Built complex geospatial visualizations using **React, TypeScript**.
-- Created a **geospatial file converter** (.kml, .shp, .geojson → .csv) using **Python & Pandas**.
+- Created a **geospatial file converter** (.kml, .shp, .geojson → .csv) using **Python & Typescript**.
 
 ### 🧩 eCollab Platform (Collins Aerospace)
-- Developed the “Artefact Editor” with React & Material UI for collaborative editing.
+- Developed the “Artefact Editor” with **React & Material UI for frontend and FastApi** for backend for collaborative editing.
 
 ### 🧠 SkillsUp (Cénotélie)
-- Designed and tested features to manage internal training, using **React, SCSS, Jest**.
+- Designed and tested features to manage internal training, using **React.js, SCSS, Jest and Nest.js**.
 
 ### 🤖 Web Scraper Bot (Cénotélie)
 - Built an automated job data scraper using **Python & Selenium** for internal analytics.
