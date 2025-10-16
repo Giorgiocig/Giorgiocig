@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Giorgio Cignitti
 
-🎯 **Front-End Web Developer** | 🧠 PhD in Neurosciences | 💡 UI/UX Enthusiast  
+🎯 **Web Developer** | 🧠 PhD in Neurosciences | 💡 UI/UX Enthusiast  
 📍 Based in Montpellier, France | 💻 Open to remote opportunities
 
 ---
