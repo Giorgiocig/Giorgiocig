@@ -13,7 +13,7 @@ I’m a passionate Full Stack Developer with 4 years of experience in building r
 - **Languages**: JavaScript (ES6+), TypeScript, Python  
 - **Frameworks**: React.js, Next.js; FastApi, Nest.js 
 - **Styling**: SCSS, Tailwind CSS, Material UI  
-- **Testing**: Jest, React Testing Library, Pytest, Selenium
+- **Testing**: Jest, React Testing Library, Pytest, Selenium, Playwright
 - **Database**: Mongodb, postgreSQL 
 - **Data**: Pandas, Matplotlib  
 - **Tools**: Git, GitHub, Docker, Jira, Figma
