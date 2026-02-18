@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I’m a passionate Full Stack Developer with 4 years of experience in building responsive, accessible, and user-friendly web applications. I transitioned from academia (PhD in Neurosciences) to tech, bringing a rigorous scientific mindset to software development.
+I’m a passionate Full Stack Developer with 5 years of experience in building responsive, accessible, and user-friendly web applications. I transitioned from academia (PhD in Neurosciences) to tech, bringing a rigorous scientific mindset to software development.
 
 🔧 **Tech Stack**:  
 - **Languages**: JavaScript (ES6+), TypeScript, Python  
